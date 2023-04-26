@@ -1,12 +1,12 @@
 ![MasterHead](https://media.istockphoto.com/vectors/programming-coding-programming-banner-vector-id623898896?k=20&m=623898896&s=170667a&w=0&h=dNIuUXtzrygGOrznIGxbkFZ2C2-4fEI5WatIM-i6VW0=)
 <h1 align="center">Hi 👋, I'm Kaushik Maslekar</h1>
-<h3 align="center">I'm a diploma student in computer enginnering at ambajogai, maharastra</h3>
+<h3 align="center">I'm a 3rd diploma student in computer enginnering at ambajogai, maharashtra</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikmaslekar&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikmaslekar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kaushik maslekar" target="blank"><img src="https://img.shields.io/twitter/follow/kaushik maslekar?logo=twitter&style=for-the-badge" alt="kaushik maslekar" /></a> </p>
 
-- 🌱 I’m currently learning **C, C++, Front-end**
+- 🌱 I’m currently learning **VR development, as well as java**
 
 - 📫 How to reach me **maslekarkaushik@gmail.com**
 
